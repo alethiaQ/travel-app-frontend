@@ -1,1 +1,2 @@
-# travel-app-frontend
+# travel-pal
+frontend
